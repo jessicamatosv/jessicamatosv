@@ -29,6 +29,17 @@
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
+### 🎓 Formação em Ciência de Dados
+
+Cursando Ciência de Dados, com destaque em:
+
+- 🤖 **Machine Learning** — Aprendizagem de Máquina para Ciência de Dados
+- 📊 **Análise & Visualização de Dados** — Análise de Dados, Visualização para Tomada de Decisão
+- 🗄️ **Banco de Dados** — Arquitetura de Dados Relacionais e Não Relacionais
+- ☁️ **Cloud Computing** e **Governança de TI**
+- 🐍 **Programação** — Python, Resolução de Problemas com Programação
+- 📈 **Business Analytics** e **Data Mining**
+  
 ### 📫 Contato
 
 Vamos nos conectar! Vem falar comigo no [LinkedIn](www.linkedin.com/in/jessica-matos-331689223).
