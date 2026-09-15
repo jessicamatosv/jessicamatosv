@@ -39,6 +39,7 @@ Cursando Ciência de Dados, com destaque em:
 - ☁️ **Cloud Computing** e **Governança de TI**
 - 🐍 **Programação** — Python, Resolução de Problemas com Programação
 - 📈 **Business Analytics** e **Data Mining**
+- [![Cisco Certified](https://img.shields.io/badge/Cisco-Endpoint%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](file:///C:/Users/jessica.matos/Downloads/Endpoint_Security_certificate_vieiramatosjessica-gmail-com_0b6b21e3-9e9d-4297-907f-305cadcba130.pdf)
   
 ### 📫 Contato
 
